@@ -1,4 +1,8 @@
-div{
+.design{
     background-color: tomato;
     padding:10px;
+}
+.art{
+    color: aquamarine;
+    background-color:black;
 }
